@@ -1,4 +1,4 @@
-# Análise Espacial da Produção de Cupuaçu no Amazonas
+# Análise da Produção de Cupuaçu no Amazonas: Evidências e Visualizações
 
 Este projeto combina economia, estatística, ciência de dados e análise espacial para compreender os padrões de produção do **cupuaçu** no estado do Amazonas. Com base em dados de Unidades Locais, utilizamos técnicas de clusterização e mapeamento geoespacial para identificar agrupamentos produtivos e subsidiar o desenvolvimento de políticas públicas.
 
